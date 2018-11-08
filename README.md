@@ -4,3 +4,4 @@ This is a test automation framework using Selenium:
 - Data Driven
 - TestNG
 - Maven
+
