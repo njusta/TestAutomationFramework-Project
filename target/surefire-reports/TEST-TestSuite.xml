@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="1" name="TestSuite" time="6.033" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_171\bin"/>
+    <property name="java.vm.version" value="25.171-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\eclipse-TestAutomationFramwork"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\eclipse-TestAutomationFramwork"/>
+    <property name="java.runtime.version" value="1.8.0_171-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_171\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\id63663\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8926563616845855217.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre1.8.0_171/bin/client;C:/Program Files (x86)/Java/jre1.8.0_171/bin;C:/Program Files (x86)/Java/jre1.8.0_171/lib/i386;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\CCApplications\3rdParty\Bin;D:\CCApplications\Shared\Bin;D:\PROGRA~1\SQLLIB\BIN;D:\PROGRA~1\SQLLIB\FUNCTION;C:\Program Files (x86)\Silanis\AWS_Client\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Riverbed\Steelhead Mobile\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\OpenSSH-Win64;C:\Program Files\TortoiseSVN\bin;C:\Users\id63663\AppData\Local\Android\Sdk\platform-tools;C:\Users\id63663\AppData\Local\Android\Sdk\tools;C:\Program Files\nodejs\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\HPE\Unified Functional Testing\bin;C:\Program Files (x86)\Plantronics\Spokes3G\;C:\Program Files (x86)\Java\jdk1.8.0_131\bin;C:\Users\id63663\AppData\Local\Android\Sdk\tools;C:\Users\id63663\AppData\Local\Android\Sdk\platform-tools;C:\Users\id63663\AppData\Local\Android\Sdk\tools\bin;C:\Users\id63663\AppData\Roaming\npm;C:\Users\id63663\Downloads\eclipse-jee-oxygen-3a-win32\eclipse;;C:\Program Files (x86)\HPE\Unified Functional Testing\\bin;C:\Program Files (x86)\HPE\Unified Functional Testing\\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\id63663"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="ID63663"/>
+    <property name="java.class.path" value="/C:/Users/id63663/Downloads/eclipse-jee-oxygen-3a-win32/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.0.20150526-2031/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jre1.8.0_171"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_171"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_171\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jre1.8.0_171\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_171\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_171\classes;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\eclipse-TestAutomationFramwork\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase classname="com.facebook.LoginTests" name="enterLoginDetails_Invalid" time="5.953"/>
+  <testcase classname="com.facebook.LogoutTests" name="applicationLogout" time="0.08">
+    <failure message="Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;
+System info: host: &apos;HL202420&apos;, ip: &apos;192.168.0.29&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:39596/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 4e59de02-9076-46cc-b3c0-cd9264c6ba52
+*** Element info: {Using=id, value=userNavigationLabel}" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;
+System info: host: &apos;HL202420&apos;, ip: &apos;192.168.0.29&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_171&apos;
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserName: internet explorer, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.enableFullPageScreenshot: true, ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ie.forceShellWindowsApi: false, ie.useLegacyFileUploadDialogHandling: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:39596/, nativeEvents: true, requireWindowFocus: false}, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: 4e59de02-9076-46cc-b3c0-cd9264c6ba52
+*** Element info: {Using=id, value=userNavigationLabel}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at com.facebook.AccountSettingsPage.clickAccountSettings(AccountSettingsPage.java:25)
+	at com.facebook.LogoutTests.applicationLogout(LogoutTests.java:11)
+</failure>
+  </testcase>
+</testsuite>
